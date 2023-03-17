@@ -12,11 +12,11 @@ The dashboard is designed to be interactive, allowing users to filter the data b
 
 Upon analyzing the sales data, several trends and insights emerged:
 
-- The most popular product categories are Beverages and Dried fruit & Nuts, which account for over 50% of total sales. Dairy products make up the smallest percentage of sales.
+- The most popular product categories are Beverages and Dried fruit & Nuts, which account for over 50% of total sales.
 
-- Company J, H, & F are the top 3 customers with high orders. Company G, L, & AA make up the smallest percentage of the order.
+- Company J, H, & F are the top 3 customers with high orders. Company G, L, & AA make up the smallest order percentage.
 
-- The top-selling products are Coffee and Green Tea. The lowest-selling product is the Mozzarella. 
+- The top-selling products are Coffee and Green Tea. The lowest-selling product is the Fruit cocktail
 
 - The salesperson with the highest sales performance is Anne Larson, followed by Nancy Freehafer and Laura Giussani.
 
