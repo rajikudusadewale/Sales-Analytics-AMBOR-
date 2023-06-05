@@ -28,6 +28,11 @@ Upon analyzing the sales data, several trends and insights emerged:
 
 - Whilst, there are small number of orders being shipped to Denver, Las vegas, and Boise.
 
+**Conclusion**:
+
+In conclusion, the sales dashboard provides valuable insights into the company's sales data, allowing them to make data-driven decisions to improve their business performance. By focusing on the recommendations provided, the company can potentially increase sales, improve customer satisfaction, and increase their market share.
+
+
 **Recommendations**:
 
 Based on the insights gained from the sales dashboard, I recommend the following actions to the company:
@@ -41,10 +46,6 @@ Based on the insights gained from the sales dashboard, I recommend the following
 - Explore different payment options to attract customers who prefer other payment methods.
 
 - Offer incentives for customers who pick up their products from the store to save on shipping costs.
-
-**Conclusion**:
-
-In conclusion, the sales dashboard provides valuable insights into the company's sales data, allowing them to make data-driven decisions to improve their business performance. By focusing on the recommendations provided, the company can potentially increase sales, improve customer satisfaction, and increase their market share.
 
 
 
