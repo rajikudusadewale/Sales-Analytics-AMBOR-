@@ -8,6 +8,7 @@ The purpose of the dashboard is to provide the company with an easy-to-use tool 
 
 The dashboard is designed to be interactive, allowing users to filter the data by various dimensions such as date, product category, salesperson, and payment type. The dashboard also includes visualizations such as bar charts, line graphs, and pie charts to help users quickly understand the data.
 
+
 **Trends and Insights:**
 
 Upon analyzing the sales data, several trends and insights emerged:
